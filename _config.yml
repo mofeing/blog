@@ -80,3 +80,10 @@ theme: phantom
 deploy:
   type: git
   repo: https://github.com/mofeing/blog
+  branch: deploy
+  message: update on
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
