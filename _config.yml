@@ -80,7 +80,7 @@ theme: phantom
 deploy:
   type: git
   repo: https://github.com/mofeing/blog
-  branch: deploy
+  branch: gh-pages
   message: update on
 
 feed:
